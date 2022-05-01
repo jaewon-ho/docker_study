@@ -1,1 +1,4 @@
 nodejs-docker-app/node_modules
+
+single-container-app/node_modules
+single-container-app/build
